@@ -1,4 +1,4 @@
-# Online Exam Portal - DBMS Project
+# AI based Online Exam Portal
 
 A comprehensive, industry-ready online examination system built with Flask, MySQL, and modern web technologies.
 
